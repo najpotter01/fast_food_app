@@ -29,7 +29,7 @@ module.exports = {
       fontFamily: {
         quicksand: ["Quicksend-Regular", "sans-serif"],
         "quicksand-bold": ["Quicksend-Bold", "sans-serif"],
-        "quicksand-semibold": ["Quicksend-semiBold", "sans-serif"],
+        "quicksand-semibold": ["QuickSand-SemiBold", "sans-serif"],
         "quicksand-light": ["Quicksend-Light", "sans-serif"],
         "quicksand-medium": ["Quicksend-Medium", "sans-serif"],
       },
